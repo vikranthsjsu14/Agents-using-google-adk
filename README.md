@@ -1,4 +1,7 @@
 # Agents-using-google-adk
+
+I ran the assignments A) on the google cloud so I couldn't retreive the code but I showed in each video. 
+
 A.1) From Prototypes to Agents with ADK:
 for this I did the lab with detail. I asked the agent about a plan and it generated it and stored it in the bucket which I have uploaded. 
 
