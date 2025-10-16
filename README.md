@@ -6,4 +6,12 @@ for this I did the lab with detail. I asked the agent about a plan and it genera
 
 Here is the video Explaining everything: 
 
-A.2) 
+A.2) Building AI Agents with ADK: Empowering with Tools:
+For this lab it was very simple just building an agent and api to have the agent do whatever I ask and also have a web UI accesibility as well. 
+
+<img width="1397" height="490" alt="Screenshot 2025-10-16 at 4 04 11 PM" src="https://github.com/user-attachments/assets/fd3d5d9f-d7fa-4b27-a795-e14cfca1ccee" />
+This image shows me interracting with agent in web UI
+
+Here is the video explaining the lab: 
+
+A.3) 
